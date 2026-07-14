@@ -12,13 +12,13 @@ I am a historian, archivist, and web developer, and I work with heritage institu
   <tr>
     <td width="50%">
       <a href="https://alvaroruizcuevas.com/work/webmapping/simulacion-historica-tren-madrid-1866">
-        <img width="100%" src="https://alvaroruizcuevas.com/assets/maps/madrid-aranjuez-1200.webp">
+        <img width="100%" src="https://alvaroruizcuevas.com/maps/madrid-aranjuez/cover.webp">
       </a><br>
       <sup><strong>Travel by Train in 1866:</strong> Historical simulation</sup>
     </td>
     <td width="50%">
       <a href="https://alvaroruizcuevas.com/work/webmapping/reconstruccion-3d-madrid-siglo-xix">
-        <img width="100%" src="https://alvaroruizcuevas.com/assets/maps/sauco-1200.webp">
+        <img width="100%" src="https://alvaroruizcuevas.com/maps/sauco-1200.webp">
       </a><br>
       <sup><strong>3D Modeling of Old Madrid:</strong> Volumetric reconstruction of the city</sup>
     </td>
@@ -26,13 +26,13 @@ I am a historian, archivist, and web developer, and I work with heritage institu
   <tr>
     <td width="50%">
       <a href="https://alvaroruizcuevas.com/work/webmapping/story-map-viaje-madrid-manila-1844">
-        <img width="100%" src="https://alvaroruizcuevas.com/assets/maps/madrid-manila-1200.webp">
+        <img width="100%" src="https://alvaroruizcuevas.com/maps/madrid-manila/cover.webp">
       </a><br>
       <sup><strong>The Madrid–Manila Journey (1844):</strong> Story Map</sup>
     </td>
     <td width="50%">
       <a href="https://alvaroruizcuevas.com/work/webmapping/geolocalizacion-iconografia-prensa-historica">
-        <img width="100%" src="https://alvaroruizcuevas.com/assets/maps/grabados.png">
+        <img width="100%" src="https://alvaroruizcuevas.com/maps/grabados/cover.png">
       </a><br>
       <sup><strong>Geolocation of Historical Engravings:</strong> Interface for iconographic collections</sup>
     </td>
@@ -40,7 +40,7 @@ I am a historian, archivist, and web developer, and I work with heritage institu
   <tr>
     <td width="50%">
       <a href="https://alvaroruizcuevas.com/work/webmapping/evolucion-temporal-epidemia-colera-madrid-1865">
-        <img width="100%" src="https://alvaroruizcuevas.com/assets/maps/colera.png">
+        <img width="100%" src="https://alvaroruizcuevas.com/maps/colera/cover.png">
       </a><br>
       <sup><strong>Deaths from the 1865 Cholera Epidemic in Madrid</sup>
       </td>
